@@ -1,0 +1,13 @@
+name: Generate Compiled Latex Files
+on:
+  push:
+    branches:
+      - "**" # Trigger on all branches
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+      - name: Run Feed Generator
+        uses: mdilecce/latex-generator@main
