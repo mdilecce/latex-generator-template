@@ -1,6 +1,6 @@
 proj_name:  "Project Name"      # Replace with the name of your project
 
-item:
+items:
   - jobname: paper              # Label for the Job
     compile: true               # Set to true to enable compilation, false otherwise
     file: ./main.tex           # Replace with the name of your main LaTeX document
