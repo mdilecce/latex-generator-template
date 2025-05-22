@@ -9,3 +9,6 @@ Package rerunfilecheck Warning: File `paper.out' has changed.
 Job: paper, File: ./main.tex
 LaTeX Warning: No \author given.
 
+Job: paper, File: ./main.tex
+LaTeX Warning: No \author given.
+
