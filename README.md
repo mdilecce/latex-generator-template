@@ -37,6 +37,8 @@ The `latex_jobs.yaml` file defines the compilation jobs. Below is a brief explan
 1. Push your LaTeX files to the repository.
 2. GitHub Actions automatically runs the workflow defined in `latex_jobs.yaml`.
 3. The compiled PDF is saved in the specified output directory.
-
+---
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+---
+Michele Di Lecce
